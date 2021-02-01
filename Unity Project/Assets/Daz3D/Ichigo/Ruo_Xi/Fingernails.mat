@@ -116,7 +116,7 @@ Material:
     - _Normal: 0.3
     - _ReceivesSSR: 1
     - _RequireSplitLighting: 1
-    - _Roughness: 1
+    - _Roughness: 2
     - _SpecularLobe1Roughness: 0.417323
     - _SpecularLobe2Roughness: 0.251969
     - _SpecularStrength: 1
