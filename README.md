@@ -2,7 +2,7 @@
 Thanks for hizzlehoff's facial capture solution: FaceCapOSCReceiver  
 https://github.com/hizzlehoff/FaceCapOSCReceiverExample  
     
-Using unity 2019.4.8 best
+Using unity 2019.4.8 best   
 If not included add the 'extOSC' package via the Unity Asset store  
 iPhone X or above for faical capture, and dowdload app "Face Cap"  
 https://apps.apple.com/us/app/face-cap-motion-capture/id1373155478    
