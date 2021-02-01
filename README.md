@@ -7,7 +7,8 @@ If not included add the 'extOSC' package via the Unity Asset store
 iPhone X or above for faical capture, and dowdload app "Face Cap"  
 https://apps.apple.com/us/app/face-cap-motion-capture/id1373155478    
     
-Settings:  
+#Settings:  
+Notice:  The "Ichigo.zip" needs to be unpackaged in Assets/Daz3D/Ichigo first.  
 Step 1:  Open the scene "/Scenes/SampleScene".   
 Step 2:  Make sure Unity is allowed through your firewall.   
 Step 3:  Make sure the FaceCap iOS app and the Unity project are connected to the same wifi network, or even better create a hotspot on you iPhone or iPad and connect the device running Unity to the hotspot via a USB cable.  
